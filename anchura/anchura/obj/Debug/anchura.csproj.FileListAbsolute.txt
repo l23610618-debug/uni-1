@@ -1,0 +1,7 @@
+C:\Users\eduf0\source\repos\anchura\anchura\bin\Debug\anchura.exe.config
+C:\Users\eduf0\source\repos\anchura\anchura\bin\Debug\anchura.exe
+C:\Users\eduf0\source\repos\anchura\anchura\bin\Debug\anchura.pdb
+C:\Users\eduf0\source\repos\anchura\anchura\obj\Debug\anchura.csproj.AssemblyReference.cache
+C:\Users\eduf0\source\repos\anchura\anchura\obj\Debug\anchura.csproj.CoreCompileInputs.cache
+C:\Users\eduf0\source\repos\anchura\anchura\obj\Debug\anchura.exe
+C:\Users\eduf0\source\repos\anchura\anchura\obj\Debug\anchura.pdb

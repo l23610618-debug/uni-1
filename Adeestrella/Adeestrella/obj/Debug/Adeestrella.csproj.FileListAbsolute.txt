@@ -1,0 +1,7 @@
+C:\Users\eduf0\source\repos\Adeestrella\Adeestrella\bin\Debug\Adeestrella.exe.config
+C:\Users\eduf0\source\repos\Adeestrella\Adeestrella\bin\Debug\Adeestrella.exe
+C:\Users\eduf0\source\repos\Adeestrella\Adeestrella\bin\Debug\Adeestrella.pdb
+C:\Users\eduf0\source\repos\Adeestrella\Adeestrella\obj\Debug\Adeestrella.csproj.AssemblyReference.cache
+C:\Users\eduf0\source\repos\Adeestrella\Adeestrella\obj\Debug\Adeestrella.csproj.CoreCompileInputs.cache
+C:\Users\eduf0\source\repos\Adeestrella\Adeestrella\obj\Debug\Adeestrella.exe
+C:\Users\eduf0\source\repos\Adeestrella\Adeestrella\obj\Debug\Adeestrella.pdb
